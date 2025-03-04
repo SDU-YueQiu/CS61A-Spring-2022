@@ -1,5 +1,6 @@
 tst.py
-lab00/**
-!lab00/lab00.py
-!lab00/parsons_probs/
-!lab00/parsons_probs/ilove61a.py
+Labs/**
+!Labs/lab00
+!Labs/lab00/lab00.py
+!Labs/lab00/parsons_probs/
+!Labs/lab00/parsons_probs/ilove61a.py

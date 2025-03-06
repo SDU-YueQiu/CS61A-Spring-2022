@@ -7,6 +7,9 @@ Labs/**
 !Labs/lab*/parsons_probs
 
 !Labs/lab00/parsons_probs/ilove61a.py
+!Labs/lab01/parsons_probs/add_in_range.py
+!Labs/lab01/parsons_probs/digit_pos_match.py
+!Labs/lab01/parsons_probs/k_occurrence.py
 
 #通配Hws
 Hws/**
